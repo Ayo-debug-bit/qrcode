@@ -17,6 +17,7 @@
     display:flex;
     background-color:  hsl(220, 15%, 55%);
     font-family:"Outfit";
+    justify-content: center;
 }
 .header{
     text-align:center;
